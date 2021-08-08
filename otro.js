@@ -1,4 +1,6 @@
 console.log("Saludos");
 
-Otro saludo
+console.log("Otro saludo");
+
+
 
